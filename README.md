@@ -21,7 +21,7 @@ Code are in `stepper_oneRevolution`, will read intruction from serial port.
 
 
 ## Todo (maybe never)
-1. store the data in on-board flash so that it doesn't need to be connected to a PC
+1. store the data in on-board flash so that it doesn't need to be connected to a PC all the time
 2. support bluetooth or wifi (w/ esp32)
 3. better route planner
 4. better stepper motors
