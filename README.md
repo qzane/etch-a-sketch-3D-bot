@@ -6,7 +6,7 @@ A 3D printed bot for drawing with Etch-A-Sketch
 ## Hardware
 2x stepper motor
 I'm using 28BYJ-48, it just works but not recommended because:
-1. it's very slow (10 rpm to prevent step lossesand)
+1. it's very slow (10 rpm to prevent step losses)
 2. inaccurate (check out the movement compensation code in `serial_write.py`)
 
 ## 3D printed connecter and frames
