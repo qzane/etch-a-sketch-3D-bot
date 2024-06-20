@@ -16,8 +16,8 @@ In `3D_parts` folder.
 Code are in `stepper_oneRevolution`, will read intruction from serial port.
 
 ## Control code
-`route_planner.py` is a very simple dfs planner, will generate many redundant steps, but it works
-`serial_write.py` send the steps to Arduion and drive the moter.
+* `route_planner.py` is a very simple dfs planner, will generate many redundant steps, but it works
+* `serial_write.py` send the steps to Arduion and drive the moter.
 
 
 ## Todo (maybe never)
